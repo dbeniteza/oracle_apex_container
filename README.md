@@ -491,8 +491,6 @@ PL/SQL procedure successfully completed.
 ```
 SQL> select utl_http.request('http://google.es') from dual;
 
-SQL> select utl_http.request('http://google.es') from dual;
-
 UTL_HTTP.REQUEST('HTTP://GOOGLE.ES')
 --------------------------------------------------------------------------------
 <!doctype html><html itemscope="" itemtype="http://schema.org/WebPage" lang="es"
