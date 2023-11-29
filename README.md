@@ -1,7 +1,5 @@
 # Oracle APEX Container
 
-[[_TOC_]]
-
 ## Description
 
 This project contains the steps to create a custom Oracle APEX container image.
